@@ -84,4 +84,4 @@ A desktop application allowing patients to book appointments and manage doctor s
 ### 📫 Get in Touch
 
 * [LinkedIn](https://www.linkedin.com/in/micha%C5%82-w%C4%85si%C5%84ski-451384305/)
-* [Email](wasinskimichal03@gmail.com)
+* Email: wasinskimichal03@gmail.com
